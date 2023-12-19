@@ -1,5 +1,7 @@
 # Benchmarking
 
+Using to benchmark, hoping it will be long enough
+
 # ShadowsocksX-NG
 
 [Download](https://github.com/shadowsocks/ShadowsocksX-NG/releases/latest)
